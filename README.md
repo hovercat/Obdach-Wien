@@ -6,13 +6,16 @@ Stand: 2026-07-21
 
 **Notfall / Emergency: [144](tel:144)**
 
-**Kältetelefon: [01/ 480 45 53](tel:004314804553)**
-Jemand schläft draußen im Winter oder bei Kälte? Anrufen. Warme Mahlzeit, Schlafsack oder Unterkunft.
+**Kältetelefon: [01/ 480 45 53](tel:004314804553)** (nur im Winter besetzt)
+Jemand schläft draußen bei Kälte? Anrufen. Warme Mahlzeit, Schlafsack oder Unterkunft.
 
 | Was | Telefon |
 |-----|---------|
 | Notfall / Rettung | [144](tel:144) |
-| Kältetelefon | [01/ 480 45 53](tel:004314804553) |
+| Euro-Notruf | [112](tel:112) |
+| Feuerwehr | [122](tel:122) |
+| Polizei | [133](tel:133) |
+| Kältetelefon (nur Winter) | [01/ 480 45 53](tel:004314804553) |
 | Gruft (Schlafen + Essen, 24h) | [01/ 587 87 54](tel:004315878754) |
 | P7 Caritas (Beratung, 7 Tage offen) | [01/ 892 33 89](tel:004318923389) |
 | FSW (Wohnung finden, vieles mehr) | [01/ 24 5 24](tel:00431245240) |
@@ -605,3 +608,9 @@ Kinder- und Jugendhilfe (MA 11): über 147 oder die
 Regionalstelle im Bezirk (wien.gv.at).
 Krisenzentren nehmen Kinder sofort auf.
 ```
+
+
+# Please help me
+
+Bitte um das Eröffnen eines Issues oder eine Nachricht an mich, sollten Informationen veraltet sein.
+Sonst einfach hier drauf pull request setzen, danke.
