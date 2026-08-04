@@ -610,7 +610,7 @@ Krisenzentren nehmen Kinder sofort auf.
 ```
 
 
-# Please help me
+# Contributions
 
 Bitte um das Eröffnen eines Issues oder eine Nachricht an mich, sollten Informationen veraltet sein.
 Sonst einfach hier drauf pull request setzen, danke.
