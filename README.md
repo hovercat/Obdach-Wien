@@ -2,12 +2,16 @@
 
 Essen, Schlafen, Arzt, Kleidung, Beratung. Alles kostenlos.
 
-Stand: 2026-07-21
+Stand: 2026-11-23
+
+**Sprache / Language:** [Deutsch](https://hovercat.github.io/Obdach-Wien/) | [English](https://hovercat-github-io.translate.goog/Obdach-Wien/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en) | [Українська](https://hovercat-github-io.translate.goog/Obdach-Wien/?_x_tr_sl=de&_x_tr_tl=uk&_x_tr_hl=uk) | [Русский](https://hovercat-github-io.translate.goog/Obdach-Wien/?_x_tr_sl=de&_x_tr_tl=ru&_x_tr_hl=ru) | [العربية](https://hovercat-github-io.translate.goog/Obdach-Wien/?_x_tr_sl=de&_x_tr_tl=ar&_x_tr_hl=ar) | [فارسی](https://hovercat-github-io.translate.goog/Obdach-Wien/?_x_tr_sl=de&_x_tr_tl=fa&_x_tr_hl=fa) | [Türkçe](https://hovercat-github-io.translate.goog/Obdach-Wien/?_x_tr_sl=de&_x_tr_tl=tr&_x_tr_hl=tr) | [Română](https://hovercat-github-io.translate.goog/Obdach-Wien/?_x_tr_sl=de&_x_tr_tl=ro&_x_tr_hl=ro) | [Polski](https://hovercat-github-io.translate.goog/Obdach-Wien/?_x_tr_sl=de&_x_tr_tl=pl&_x_tr_hl=pl) | [Magyar](https://hovercat-github-io.translate.goog/Obdach-Wien/?_x_tr_sl=de&_x_tr_tl=hu&_x_tr_hl=hu) | [Slovenčina](https://hovercat-github-io.translate.goog/Obdach-Wien/?_x_tr_sl=de&_x_tr_tl=sk&_x_tr_hl=sk) | [Български](https://hovercat-github-io.translate.goog/Obdach-Wien/?_x_tr_sl=de&_x_tr_tl=bg&_x_tr_hl=bg) | [Srpski](https://hovercat-github-io.translate.goog/Obdach-Wien/?_x_tr_sl=de&_x_tr_tl=sr&_x_tr_hl=sr) | [Hrvatski](https://hovercat-github-io.translate.goog/Obdach-Wien/?_x_tr_sl=de&_x_tr_tl=hr&_x_tr_hl=hr) | [Bosanski](https://hovercat-github-io.translate.goog/Obdach-Wien/?_x_tr_sl=de&_x_tr_tl=bs&_x_tr_hl=bs) | [Soomaali](https://hovercat-github-io.translate.goog/Obdach-Wien/?_x_tr_sl=de&_x_tr_tl=so&_x_tr_hl=so) | [Français](https://hovercat-github-io.translate.goog/Obdach-Wien/?_x_tr_sl=de&_x_tr_tl=fr&_x_tr_hl=fr) | [Español](https://hovercat-github-io.translate.goog/Obdach-Wien/?_x_tr_sl=de&_x_tr_tl=es&_x_tr_hl=es)
 
 **Notfall / Emergency: [144](tel:144)**
 
-**Kältetelefon: [01/ 480 45 53](tel:004314804553)** (nur im Winter besetzt)
-Jemand schläft draußen bei Kälte? Anrufen. Warme Mahlzeit, Schlafsack oder Unterkunft.
+**Kältetelefon: [01/ 480 45 53](tel:004314804553)** (November bis April)
+Jemand schläft draußen bei Kälte? Anrufen. Oder online melden: [kaelteapp.wien](https://kaelteapp.wien)
+
+**Kein Platz zum Schlafen? Geh zu P7, Wiedner Gürtel 10 (beim Hauptbahnhof), jeden Tag offen. Die finden einen Schlafplatz für dich.**
 
 | Was | Telefon |
 |-----|---------|
@@ -15,96 +19,204 @@ Jemand schläft draußen bei Kälte? Anrufen. Warme Mahlzeit, Schlafsack oder Un
 | Euro-Notruf | [112](tel:112) |
 | Feuerwehr | [122](tel:122) |
 | Polizei | [133](tel:133) |
-| Kältetelefon (nur Winter) | [01/ 480 45 53](tel:004314804553) |
+| Kältetelefon (Nov bis Apr) | [01/ 480 45 53](tel:004314804553) |
+| P7 Caritas (Schlafplatz finden, jeden Tag) | [01/ 892 33 89](tel:004318923389) |
 | Gruft (Schlafen + Essen, 24h) | [01/ 587 87 54](tel:004315878754) |
-| P7 Caritas (Beratung, 7 Tage offen) | [01/ 892 33 89](tel:004318923389) |
 | FSW (Wohnung finden, vieles mehr) | [01/ 24 5 24](tel:00431245240) |
-| Neunerhaus (Arzt, Zahnarzt, Essen, Tierarzt, gratis) | [01/ 990 09 09 500](tel:004319900909500) |
+| Neunerhaus Arzt (gratis, ohne Versicherung) | [01/ 990 09 09 500](tel:004319900909500) |
 | PSD Psychiatrischer Notdienst (24h) | [01/ 31 330](tel:0043131330) |
 | Frauenhaus-Notruf (24h) | [05 77 22](tel:004357722) |
 | Frauenhelpline gegen Gewalt (24h) | [0800 222 555](tel:0800222555) |
 | Rat auf Draht, Kinder/Jugendliche (24h) | [147](tel:147) |
 | jedmayer Krisentelefon (24h, Sucht) | [01/ 4000 53 799](tel:00431400053799) |
-| AmberMed (Arzt ohne Versicherung) | [01/ 589 00 847](tel:0043158900847) |
-| FAWOS (Wohnung behalten, Räumung) | [01/ 218 56 90](tel:004312185690) |
-| Schuldnerberatung Wien | [01/ 24 5 24 60 100](tel:004312452460100) |
 
 **Inhalt:**
-[AmberMed](#ambermed-arzt-ohne-versicherung) |
-[Canisibus](#canisibus-caritas-suppenbus) |
-[FAWOS](#fawos-wohnung-behalten) |
-[Frauenhäuser](#wiener-frauenhäuser) |
-[Frauenhelpline](#frauenhelpline-gegen-gewalt) |
-[FSW Beratungszentrum](#fsw-beratungszentrum) |
-[Gruft](#gruft) |
-[Hilfswerk](#hilfswerk-wien) |
-[jedmayer](#jedmayer-suchthilfe) |
-[JUCA](#juca-caritas-1827-jahre) |
-[Kinder](#kinder--jugendliche-unter-18) |
-[Le+O](#leo-caritas-lebensmittel) |
-[Louisebus](#louisebus-caritas-arzt-bus) |
-[Neunerhaus](#neunerhaus) |
-[Neustart](#neustart) |
-[Obdach Wien](#obdach-wien) |
-[P7 Caritas](#p7-caritas) |
-[Samariterbund Sozialmärkte](#samariterbund-sozialmärkte) |
-[Samariterbund Wohnen](#samariterbund-wohnungslosenhilfe) |
-[Schuldnerberatung](#schuldnerberatung-wien) |
-[Ute Bock](#ute-bock-flüchtlinge) |
-[VinziWerke](#vinziwerke-wien)
+[1. Schlafen](#1-schlafen) |
+[2. Tagsüber: Wärme, Duschen, Essen](#2-tagsüber-wärme-duschen-essen) |
+[3. Essen](#3-essen) |
+[4. Arzt](#4-arzt) |
+[5. Frauen](#5-frauen) |
+[6. Junge Leute + Kinder](#6-junge-leute--kinder) |
+[7. Wohnung finden + behalten](#7-wohnung-finden--behalten) |
+[8. Weitere Hilfe](#8-weitere-hilfe)
 
-## Gruft
+---
+
+# 1. Schlafen
+
+## P7 (Caritas): hier anfangen
+
+Tel: [01/ 892 33 89](tel:004318923389)
+
+Web: [caritas-wien.at/p7](https://www.caritas-wien.at/p7)
+
+```
+Erste Anlaufstelle. Schlafplatz finden, Beratung, Hilfe bei Ämtern.
+Auch Aufnahme in die Winter-Notquartiere. Kein Termin. Einfach kommen.
+
+Mo–Fr             8:00 – 18:00
+Sa, So, Feiertag  9:00 – 16:00
+
+Wiedner Gürtel 10, 1040 Wien (beim Hauptbahnhof)
+```
+
+[Google Maps](https://www.google.com/maps/place/Wiedner+G%C3%BCrtel+10,+1040+Wien)
+
+EU-Bürger:innen ohne Anspruch: Sozial- und Rückkehrberatung, Triester Str. 33/2, 1100 Wien, Tel [01/ 522 07 13](tel:004315220713)
+
+## Gruft (Caritas)
 
 Tel: [01/ 587 87 54](tel:004315878754)
 
-Web: https://www.gruft.at/
+Web: [gruft.at](https://www.gruft.at/)
 
 ```
-Schlafen, Essen (3x am Tag), Kleidung, Duschen, Arzt, Post
+Schlafen, Essen (3x am Tag), Kleidung, Duschen, Arzt, Beratung.
+Für alle ab 18. Immer offen, jeden Tag.
 
 Tag:   07:30 – 21:00
 Nacht: 21:00 – 07:30
-Immer offen. Jeden Tag.
 
-Barnabitengasse 12a, 1060 Wien
+Barnabitengasse 12a, 1060 Wien (U3 Neubaugasse)
 ```
 
 [Google Maps](https://www.google.com/maps/place/Barnabitengasse+12a,+1060+Wien)
 
-## Neunerhaus
+## VinziRast Notschlafstelle
 
-Tel: [01/ 990 09 09 500](tel:004319900909500)
+Tel: [01/ 810 74 32](tel:004318107432)
 
-Web: https://www.neunerhaus.at/
+Web: [vinzirast.at](https://www.vinzirast.at/projekte/vinzirast-notschlafstelle)
 
 ```
-Arzt, Zahnarzt, Tierarzt. Gratis, auch ohne Versicherung.
+Für ALLE: egal welches Land, egal welche Papiere. Hunde erlaubt.
+50 Betten, jeden Tag. Keine Reservierung.
 
-Café (Essen + Beratung, kein Termin):
-Mo–Fr  10:00 – 15:00
+Aufnahme jeden Tag 18:30 – 21:00
 
-Arzt / Zahnarzt (Zahnarzt mit Termin):
-Mo         9:00 – 13:00
-Di         9:00 – 13:00 + 14:00 – 18:00
-Mi–Fr      9:00 – 13:00
-
-Tierarzt (Überweisung nötig von deiner Betreuung; wenn keine -> einfach hingehen):
-Mo + Mi    13:00 – 14:00
-Fr         10:30 – 11:30
-
-Margaretenstraße 166, 1050 Wien
+Wilhelmstraße 10, 1120 Wien (U6 Meidling)
 ```
 
-[Google Maps](https://www.google.com/maps/place/Margaretenstra%C3%9Fe+166,+1050+Wien)
+[Google Maps](https://www.google.com/maps/place/Wilhelmstra%C3%9Fe+10,+1120+Wien)
+
+## VinziPort (Männer, EU-Bürger)
+
+Tel: [01/ 41 69 341](tel:004314169341)
+
+```
+Notschlafstelle für Männer aus EU-Ländern. Abendessen, Frühstück, Duschen.
+
+Jeden Tag 18:00 – 7:00, Aufnahme 18:00 – 21:00
+
+Leebgasse 74, 1100 Wien
+```
+
+[Google Maps](https://www.google.com/maps/place/Leebgasse+74,+1100+Wien)
+
+## VinziBett
+
+Tel: [0699/ 110 48 778](tel:004369911048778)
+
+```
+Notschlafstelle, 50 Betten, Frauen + Männer. Keine Familien mit Kindern.
+
+Simmeringer Hauptstraße 35, 1110 Wien
+```
+
+[Google Maps](https://www.google.com/maps/place/Simmeringer+Hauptstra%C3%9Fe+35,+1110+Wien)
+
+## Nachtzentrum Obdach Sautergasse
+
+Tel: [01/ 24 5 24 40 540](tel:004312452440540)
+
+```
+Nachts drinnen sein, warm, ausruhen. Gratis, für alle ab 18. Bis 50 Personen.
+
+Jeden Tag 19:00 – 7:00
+
+Sautergasse 34–38, 1170 Wien
+```
+
+[Google Maps](https://www.google.com/maps/place/Sautergasse+34,+1170+Wien)
+
+## Winter-Notquartiere (Ende Oktober bis Ende April)
+
+Web: [obdach.wien Winterpaket](https://www.obdach.wien/p/obdachlos-winterpaket-notquartiere)
+
+```
+Im Winter über 1.000 zusätzliche Schlafplätze. Für alle.
+Platz bekommst du über P7 oder ein Tageszentrum.
+
+Obdach Gänsbachergasse 5, 1030      Frauen          01/ 24 5 24 40 270  (24h)
+Obdach Kastanienallee 2, 1120       Frauen + Männer 0676/ 8289 40 005   (24h)
+Obdach Siemensstraße 109, 1210      Frauen, Männer, Paare  01/ 24 5 24 40 450 (24h)
+Obdach Redtenbachergasse 80, 1170   Familien        0676/ 8289 40 151
+Caritas Pavillon 4, Baumgartner Höhe 1, 1140        01/ 479 23 94
+```
+
+---
+
+# 2. Tagsüber: Wärme, Duschen, Essen
+
+Tageszentren: drinnen sein, Essen, Duschen, Wäsche waschen, Beratung, oft Arzt und Postadresse. Gratis, ohne Anmeldung.
+
+## Tageszentrum am Hauptbahnhof (Caritas)
+
+Tel: [01/ 376 02 01](tel:004313760201)
+
+```
+Für alle ab 18. Duschen, Wäsche, Essen (billig), Kleidung, Schließfächer,
+WLAN, Postadresse, eigener Frauenbereich. Do 9–12:30 Arzt (Louisebus).
+
+Jeden Tag 8:00 – 18:00
+
+Wiedner Gürtel 10, 1040 Wien
+```
+
+[Google Maps](https://www.google.com/maps/place/Wiedner+G%C3%BCrtel+10,+1040+Wien)
+
+## Obdach Josi
+
+Tel: [01/ 24 5 24 40 120](tel:004312452440120)
+
+```
+Tageszentrum für alle. Mehrere Sprachen. Essen, Duschen, Beratung, Arzt, Post.
+
+Jeden Tag 9:00 – 18:00 (1. Mittwoch im Monat nur 9:00 – 12:30)
+
+U6 Josefstädter Straße, 1080 Wien (in der Station)
+```
+
+[Google Maps](https://www.google.com/maps/place/Josefst%C3%A4dter+Stra%C3%9Fe,+1080+Wien)
+
+## Tageszentrum Meidling (Caritas, Männer)
+
+Tel: [0720/ 890 094](tel:0043720890094)
+
+```
+Nur für Männer. Essen, Duschen, Wäsche, Kleidung, WLAN.
+
+Jeden Tag 9:30 – 16:30
+
+Breitenfurter Straße 1, 1120 Wien
+```
+
+[Google Maps](https://www.google.com/maps/place/Breitenfurter+Stra%C3%9Fe+1,+1120+Wien)
+
+Obdach Ester (nur Frauen): siehe [5. Frauen](#5-frauen). Obdach aXXept (18–34): siehe [6. Junge Leute](#6-junge-leute--kinder).
+
+---
+
+# 3. Essen
 
 ## Canisibus (Caritas Suppenbus)
 
-Tel: [01/ 878 126 09](tel:004318781260-9) (Werktags 11–18 Uhr)
+Tel: [01/ 878 126 09](tel:0043187812609) (Werktags 11–18 Uhr)
 
-Web: https://www.caritas-wien.at/hilfe-angebote/obdach-wohnen/mobile-notversorgung/suppenbus-canisibus
+Web: [caritas-wien.at/canisibus](https://www.caritas-wien.at/hilfe-angebote/obdach-wohnen/mobile-notversorgung/canisibus/)
 
 ```
-Jeden Abend gratis warme Suppe + Brot. Auch am Wochenende.
+Jeden Abend gratis warme Suppe + Brot. Auch Wochenende + Feiertag.
 Einfach hinkommen. Ca. 15 Minuten pro Station.
 Halte + Zeiten können sich ändern, siehe Website.
 
@@ -125,276 +237,118 @@ Tour 3 (eBike):
   20:50  Lerchenfelderstr. 103 / Ecke Mentergasse (U6)
 ```
 
-## P7 (Caritas)
+Gratis Essen gibt es auch in der **Gruft** (3x täglich) und in den **Tageszentren** (oben).
 
-Tel: [01/ 892 33 89](tel:004318923389)
-
-Web: https://www.caritas-wien.at/p7
+## Neunerhaus Café
 
 ```
-Erste Anlaufstelle. Beratung, Schlafplatz finden, Hilfe bei Ämtern.
-Kein Termin nötig. Einfach kommen.
+Essen + Beratung, kein Termin.
 
-Mo–Fr          8:00 – 18:00
-Sa, So, Feiertag  9:00 – 16:00
+Mo–Fr 10:00 – 15:00
 
-Wiedner Gürtel 10, 1040 Wien
+Margaretenstraße 166, 1050 Wien
 ```
 
-[Google Maps](https://www.google.com/maps/place/Wiedner+G%C3%BCrtel+10,+1040+Wien)
+## Le+O (Caritas Lebensmittel)
 
-## Neustart
-
-Tel: [01/ 545 95 60](tel:004315459560)
-
-Web: https://www.neustart.at/
+Web: [caritas-leo.at](https://www.caritas-leo.at/unsere-hilfe/ausgabestellen/)
 
 ```
-Hilfe nach Gefängnis, Bewährungshilfe, Gewaltprävention, Gericht.
-Vorher anrufen!
-
-Castelligasse 17, 1050 Wien
+Lebensmittelpaket für ca. 5 € + gratis Beratung. 16 Ausgabestellen.
+Anmeldung per App oder caritasforyou.wien. Ausweis mitbringen.
+Achtung: 24.12.2026 – 7.1.2027 alle Stellen geschlossen.
 ```
 
-[Google Maps](https://www.google.com/maps/place/Castelligasse+17,+1050+Wien)
-
-## Hilfswerk Wien
-
-Tel: [01/ 512 36 61](tel:004315123661)
-
-Web: https://www.hilfswerk.at/wien/wohnungslosen-und-fluechtlingshilfe/wohnungslosenhilfe/
+## Sozialmärkte (billig einkaufen)
 
 ```
-Betreutes Wohnen, Wohnungsverwaltung.
+Lebensmittel sehr billig. Einkaufspass nötig, gibts im Markt.
+Mitbringen: Meldezettel, Einkommensnachweis, Ausweis mit Foto.
 
-Schottenfeldgasse 29, 1070 Wien
+Samariterbund (Info 01/ 891 45 371, 9–14 Uhr):
+  Gellertgasse 42-48, 1100
+  Böckhgasse 2-4, 1120
+  Pillergasse 20, 1150
+  Frömmlgasse 31, 1210
+
+VinziMarkt (0699/ 1501 85 43):
+  Hauffgasse 4a, 1110
+  Mo–Do 10–15, Fr 10–16, Sa 9–12
 ```
 
-[Google Maps](https://www.google.com/maps/place/Schottenfeldgasse+29,+1070+Wien)
+---
 
-## VinziWerke Wien
+# 4. Arzt
 
-Web: https://www.vinzi.at/
+## Neunerhaus Gesundheitszentrum
 
-Mobil: [0676/ 8742 31 10](tel:004367687423110)
+Tel: [01/ 990 09 09 500](tel:004319900909500)
 
-```
-Büro: Boërgasse 7, 1120 Wien (Termin nötig)
-```
-
-[Google Maps](https://www.google.com/maps/place/Bo%C3%ABrgasse+7,+1120+Wien)
-
-### VinziDorf Wien
-
-Tel: [01/ 23 50 182 30](tel:004312350182-30)
+Web: [neunerhaus.at](https://www.neunerhaus.at/hilfe/arzt/)
 
 ```
-Wohnen für obdachlose Männer (Alkoholkranke). 24 Plätze.
-Essen, Kleidung, Hilfe bei Ämtern.
+Arzt + Zahnarzt, gratis, auch ohne Versicherung. Kein Termin nötig
+(Zahnarzt mit Termin). Ausweis oder e-Card mitbringen, wenn vorhanden.
 
-Büro: Mo–Do 8:00–16:00, Fr 8:00–14:00
+Mo         9:00 – 13:00
+Di         9:00 – 13:00 + 14:00 – 18:00
+Mi–Fr      9:00 – 13:00
 
-Boërgasse 7, 1120 Wien
+Tierarzt für deinen Hund/Katze (gratis):
+Mo + Mi    13:00 – 14:00
+Fr         10:30 – 11:30
+
+Margaretenstraße 166, 1050 Wien
 ```
 
-### VinziPort Wien
+[Google Maps](https://www.google.com/maps/place/Margaretenstra%C3%9Fe+166,+1050+Wien)
 
-Tel: [01/ 41 69 341](tel:004314169341)
+## Louisebus (Caritas Arzt-Bus)
 
-```
-Notschlafstelle für EU-Bürger (Männer). 55 Betten.
-Abendessen, Frühstück, Duschen.
+Mobil: [0676/ 748 79 21](tel:00436767487921) (Mo–Fr)
 
-Jeden Tag 18:00 – 7:00
-Aufnahme 18:00 – 21:00
-
-Leebgasse 74, 1100 Wien
-```
-
-[Google Maps](https://www.google.com/maps/place/Leebgasse+74,+1100+Wien)
-
-### VinziMarkt Wien
-
-Tel: [0699/ 1501 85 43](tel:00436991501854-3)
+Web: [caritas-wien.at Louisebus](https://www.caritas-wien.at/hilfe-angebote/obdach-wohnen/mobile-notversorgung/medizinbus-louisebus)
 
 ```
-Billiges Essen kaufen (max. 30% vom Normalpreis).
-Ausweis nötig. Ausweis gibts im Geschäft.
-Mitbringen: Einkommensnachweis, Meldezettel, Ausweis mit Foto.
+Arzt kommt zu dir. Gratis, auch ohne e-Card. Kein Termin. Nicht am Wochenende.
 
-Mo–Do  10:00 – 15:00
-Fr     10:00 – 16:00
-Sa     09:00 – 12:00
-
-Hauffgasse 4a, 1110 Wien
+Mo 12:30–14:00  Notquartier Hetzendorf, Hetzendorfer Str. 55, 1120
+Mo 14:30–18:00  Gruft, Barnabitengasse, 1060
+Di 09:00–12:00  Notquartier Meidling, Kerschensteinerg. 20, 1120
+Di 12:45–14:15  FrauenWohnZentrum, Springerg. 5, 1020 (auch Männer)
+Mi 09:00–13:00  Tageszentrum NORD_licht, Dr.-Otto-Neurath-G. 1, 1220
+Do 09:00–12:30  Tageszentrum Hauptbahnhof, Wiedner Gürtel 10, 1040
+Do 13:15–16:00  Notquartier Winkeläckerweg 6, 1210
+Fr 09:00–13:00  hinter Tageszentrum JOSI, U6 Josefstädter Str., 1080
 ```
 
-[Google Maps](https://www.google.com/maps/place/Hauffgasse+4a,+1110+Wien)
+## AmberMed (ohne Versicherung)
 
-### VinziShop Ottakring
+Tel: [01/ 589 00 847](tel:0043158900847)
 
-Tel: [01/ 40 63 354](tel:004314063354)
-
-```
-Billige Kleidung, Schuhe, Haushaltssachen. Für alle.
-
-Mo–Fr  10:00 – 18:00
-Sa     10:00 – 14:00
-
-Veronikagasse 25 (Ecke Ottakringer Str.), 1160 Wien
-```
-
-[Google Maps](https://www.google.com/maps/place/Veronikagasse+25,+1160+Wien)
-
-### VinziShop Erdberg
-
-Tel: [01/ 23 96 262](tel:004312396262)
+Web: [amber-med.at](https://www.amber-med.at/)
 
 ```
-Billige Kleidung, Schuhe, Haushaltssachen. Für alle.
+Arzt + Medikamente, gratis. Für Menschen OHNE Versicherung.
+Auch ohne Papiere. Viele Sprachen.
 
-Mo–Fr        10:00 – 17:45
-1. Sa/Monat  10:00 – 14:00
+Mo + Mi  13:30 – 16:00
+Di + Do  08:30 – 11:00
 
-Erdbergstraße 81, 1030 Wien
+Oberlaaer Straße 300–306, 1230 Wien (U1 Oberlaa)
 ```
 
-[Google Maps](https://www.google.com/maps/place/Erdbergstra%C3%9Fe+81,+1030+Wien)
+[Google Maps](https://www.google.com/maps/place/Oberlaaer+Stra%C3%9Fe+300,+1230+Wien)
 
-## Samariterbund Wohnungslosenhilfe
+## Psyche
 
-Web: https://wien.samariterbund.net/wohnungslosenhilfe/
+PSD Psychiatrischer Notdienst, 24h: [01/ 31 330](tel:0043131330)
 
-```
-Wohnen mit Betreuung. Platz bekommt man über FSW (01/ 24 5 24).
-```
+---
 
-### Chancenhaus
+# 5. Frauen
 
-Tel: [01/ 891 45 640](tel:0043189145640)
-
-```
-Notunterkunft, 24h Aufnahme. Eigener Frauenbereich.
-
-Kerschensteinergasse 22-24, 1120 Wien
-```
-
-[Google Maps](https://www.google.com/maps/place/Kerschensteinergasse+22,+1120+Wien)
-
-### Haus Max Winter
-
-Tel: [01/ 891 45 355](tel:004318914535-5)
-
-```
-Betreutes Wohnen. 122 Plätze (Frauen + Männer).
-Arzt, Cafeteria. Haustiere möglich.
-
-Büro: Mo–Fr 8:00–18:00
-
-Pillergasse 20, 1150 Wien
-```
-
-[Google Maps](https://www.google.com/maps/place/Pillergasse+20,+1150+Wien)
-
-### Haus SAMA
-
-Tel: [01/ 603 12 28 700](tel:004316031228700)
-
-```
-Betreutes Wohnen. 50 Plätze. Eigener Frauenbereich.
-Haustiere möglich.
-
-Mo–Do 8:00–18:00, Fr 8:00–16:00
-
-Erlachgasse 68-70/3, 1100 Wien
-```
-
-[Google Maps](https://www.google.com/maps/place/Erlachgasse+68,+1100+Wien)
-
-### Haus R3
-
-Tel: [01/ 416 24 00](tel:004314162400)
-
-```
-Betreutes Wohnen. 112 Plätze (Frauen, Männer, Paare).
-Eigener Frauenbereich, Garten. Haustiere möglich.
-
-Reizenpfenninggasse 3, 1140 Wien
-```
-
-[Google Maps](https://www.google.com/maps/place/Reizenpfenninggasse+3,+1140+Wien)
-
-### WohnenPlus Riga
-
-Tel: [01/ 886 09 46 0](tel:004318860946-0)
-
-```
-Eigene kleine Wohnung, dauerhaft, billig. 228 Plätze.
-Haustiere erlaubt.
-
-Riedelgasse 7-9, 1130 Wien
-```
-
-[Google Maps](https://www.google.com/maps/place/Riedelgasse+7,+1130+Wien)
-
-## Samariterbund Sozialmärkte
-
-Web: https://wien.samariterbund.net/soziales/sozialmaerkte/
-
-Tel: [01/ 891 45 371](tel:004318914537-1) (Info, 9:00–14:00)
-
-```
-Billiges Essen kaufen. Einkaufspass nötig.
-Pass gibts in der Filiale. Mitbringen: Meldezettel, Lohn, Ausweis mit Foto.
-
-Gellertgasse 42-48, 1100 Wien       01/ 891 45 650
-Böckhgasse 2-4, 1120 Wien           01/ 891 45 651
-Pillergasse 20, 1150 Wien           01/ 891 45 371
-Frömmlgasse 31, 1210 Wien           01/ 221 44 44   Mo–Fr 9–14
-Wagramer Str. 94, 1220 Wien         01/ 221 44      Mo–Fr 9–14
-```
-
-## FSW Beratungszentrum
-
-Tel: [01/ 24 5 24](tel:00431245240)
-
-Web: https://wohnen.fsw.at
-
-```
-Zentrale Stelle für Wohnung finden. Beratung.
-
-Mo–Fr 8:00 – 15:00
-
-Lederergasse 25, 1080 Wien
-```
-
-[Google Maps](https://www.google.com/maps/place/Lederergasse+25,+1080+Wien)
-
-## Obdach Wien
-
-Web: https://www.obdach.wien/
-
-```
-Tageszentren: warm, Essen, Duschen, Beratung, Arzt. Gratis, ohne Anmeldung.
-```
-
-### Obdach aXXept (18–34 Jahre)
-
-Tel: [01/ 24 5 24 40 110](tel:004312452440110)
-
-```
-Tageszentrum für junge Leute (18–34).
-Essen, Duschen, Beratung, Arzt, Post.
-
-Mo, Di, Mi, Fr  10:00 – 16:00
-Do + Sa         10:00 – 13:00
-
-Esterházygasse 18 / Ecke Gumpendorfer Str. 64, 1060 Wien
-```
-
-[Google Maps](https://www.google.com/maps/place/Esterh%C3%A1zygasse+18,+1060+Wien)
-
-### Obdach Ester (nur Frauen)
+## Obdach Ester (nur Frauen)
 
 Tel: [01/ 24 5 24 40 130](tel:004312452440130)
 
@@ -404,213 +358,188 @@ Essen, Duschen, Beratung, Arzt, Post.
 
 Jeden Tag 9:00 – 18:00
 
-Alfred Adler Str. 1/4, Eingang Maria-Lassnig-Str. 1, 1100 Wien
+Alfred-Adler-Str. 1/4, Eingang Maria-Lassnig-Str. 1, 1100 Wien (Hauptbahnhof)
 ```
 
 [Google Maps](https://www.google.com/maps/place/Alfred-Adler-Stra%C3%9Fe+1,+1100+Wien)
 
-### Obdach Josi
+## FrauenWohnZentrum (Caritas)
 
-Tel: [01/ 24 5 24 40 120](tel:004312452440120)
-
-```
-Tageszentrum für alle. Mehrere Sprachen.
-Essen, Duschen, Beratung, Arzt, Post.
-
-Jeden Tag 9:00 – 18:00
-(1. Mittwoch im Monat nur 9:00 – 12:30)
-
-U6 Josefstädter Straße, 1080 Wien
-```
-
-[Google Maps](https://www.google.com/maps/place/Josefst%C3%A4dter+Stra%C3%9Fe,+1080+Wien)
-
-## Louisebus (Caritas Arzt-Bus)
-
-Mobil: [0676/ 748 79 21](tel:00436767487921) (Mo–Fr)
-
-Web: https://www.caritas-wien.at/hilfe-angebote/obdach-wohnen/mobile-notversorgung/medizinbus-louisebus
+Tel: [01/ 971 80 07](tel:004319718007)
 
 ```
-Arzt kommt zu dir. Gratis, auch ohne e-Card / ohne Versicherung.
-Kein Termin. Nicht am Wochenende.
-Zeiten können sich ändern, siehe Website.
+Notbetten für Frauen für eine Nacht. Vorher anrufen.
 
-Mo 15–18  Gruft, Barnabitengasse 14, 1060
-Di 09–12  Notquartier Meidling, Kerschensteinerg. 20, 1120
-Di 12:30–14  FrauenWohnZentrum, Springerg. 5, 1020
-Mi 09–13  Tageszentrum NORD_licht, Dr.-Otto-Neurath-G. 1, 1220
-Do 09–12  Tageszentrum Hauptbhf, Wiedner Gürtel 10, 1040
-Do 13–16  Notquartier Winkeläckerweg 6, 1210
-Fr 09–13  Tageszentrum JOSI, U6 Josefstädter Str., 1080
+Springergasse 5, 1020 Wien
 ```
 
-## AmberMed (Arzt ohne Versicherung)
+Winter-Notquartier nur für Frauen: Obdach Gänsbachergasse 5, 1030 (siehe [1. Schlafen](#1-schlafen)).
 
-Tel: [01/ 589 00 847](tel:0043158900847)
+## Gewalt: Frauenhäuser + Helpline
 
-Web: https://www.amber-med.at/
+Frauenhaus-Notruf (24h, gratis, Dolmetsch möglich): [05 77 22](tel:004357722)
 
-```
-Arzt + Medikamente, gratis. Für Menschen OHNE Versicherung.
-Auch ohne Papiere. Anonym möglich. Viele Sprachen.
-
-Anmeldung:
-Mo + Mi  13:30 – 16:00
-Di + Do  08:30 – 11:00
-Mo       10:00 – 12:00 (Kinderarzt)
-
-Oberlaaer Straße 300–306, 1230 Wien
-```
-
-[Google Maps](https://www.google.com/maps/place/Oberlaaer+Stra%C3%9Fe+300,+1230+Wien)
-
-## jedmayer (Suchthilfe)
-
-Tel: [01/ 4000 53 800](tel:00431400053800)
-
-24h-Krisentelefon: [01/ 4000 53 799](tel:00431400053799)
-
-Web: https://www.suchthilfe.wien/
-
-```
-Für Menschen, die Drogen nehmen. Gratis, freiwillig.
-Essen, Duschen, Wäsche, Ausruhen, Beratung, Arzt, Notschlafstelle.
-
-Jeden Tag außer Di  09:30 – 17:30
-Dienstag            13:00 – 17:30
-
-Gumpendorfer Gürtel 8, 1060 Wien
-```
-
-[Google Maps](https://www.google.com/maps/place/Gumpendorfer+G%C3%BCrtel+8,+1060+Wien)
-
-## Frauenhelpline gegen Gewalt
-
-Tel: [0800 222 555](tel:0800222555) (24h, gratis)
-
-Web: https://www.frauenhelpline.at/
-
-```
-Bei Gewalt gegen Frauen: reden, Hilfe bekommen. 24 Stunden, jeden Tag.
-Kostenlos und anonym. Mehrere Sprachen.
-```
-
-## Wiener Frauenhäuser
-
-Notruf (24h): [05 77 22](tel:004357722)
-
-Web: https://www.frauenhaeuser-wien.at/
-
-```
-Sicherer Platz zum Wohnen für Frauen (ab 16) + Kinder.
-Bei Gewalt: anrufen, Aufnahme rund um die Uhr.
-Adresse der Häuser ist geheim (Schutz).
-
-Offene Beratung (auch ohne dort zu wohnen):
-Tel: 01/ 512 38 39
-Vivenotgasse 53 / 3. Stock, 1120 Wien
-```
+Frauenhelpline gegen Gewalt (24h, gratis, anonym): [0800 222 555](tel:0800222555)
 
 Frauennotruf der Stadt Wien (24h, auch sexuelle Gewalt): [01/ 71 719](tel:0043171719)
 
-## FAWOS (Wohnung behalten)
-
-Tel: [01/ 218 56 90](tel:004312185690)
-
-Web: https://www.volkshilfe-wien.at/fawos
-
 ```
-Hilfe BEVOR die Wohnung weg ist: Kündigung, Räumung, Mietrückstand.
-Je früher, desto besser. Gratis. Termin nötig.
-Telefon: Mo–Fr 8:00 – 16:30
-
-Schiffamtsgasse 14/3, 1020 Wien
-
-Gemeindewohnung? -> Wiener Wohnen: 05 75 75 75
-Mietrückstand + Mindestsicherung? -> MA 40: 01/ 4000 8040
+Frauenhaus: sicherer Platz für Frauen + Kinder. Aufnahme rund um die Uhr.
+Adresse ist geheim (Schutz). Akute Gefahr: Polizei 133.
+Beratung, auch ohne dort zu wohnen: 01/ 512 38 39
 ```
 
-[Google Maps](https://www.google.com/maps/place/Schiffamtsgasse+14,+1020+Wien)
+Web: [frauenhaeuser-wien.at](https://www.frauenhaeuser-wien.at/)
 
-## Schuldnerberatung Wien
+---
 
-Tel: [01/ 24 5 24 60 100](tel:004312452460100)
+# 6. Junge Leute + Kinder
 
-Web: https://www.schuldenberatung.wien/
+## Obdach aXXept (18–34 Jahre)
 
-```
-Hilfe bei Schulden, Pfändung, Privatkonkurs. 100% gratis.
-Anmeldung: Telefon, online oder persönlich.
-
-Mo–Fr 8:00 – 15:30
-
-Döblerhofstraße 9 / 1. Stock, 1030 Wien
-```
-
-[Google Maps](https://www.google.com/maps/place/D%C3%B6blerhofstra%C3%9Fe+9,+1030+Wien)
-
-## Le+O (Caritas Lebensmittel)
-
-Tel: [01/ 257 12 15](tel:004312571215)
-
-Web: https://www.caritas-leo.at/
+Tel: [01/ 24 5 24 40 110](tel:004312452440110)
 
 ```
-1x pro Woche Lebensmittelpaket (ca. 5 €) + gratis Beratung.
-Rund 16 Ausgabestellen in Wien. Le+O-Ausweis nötig.
-Erstes Mal geht auch ohne, niemand wird weggeschickt.
+Tageszentrum für junge Leute. Essen, Duschen, Beratung, Arzt, Post.
 
-Stellen + Zeiten: caritas-leo.at
+Mo, Di, Mi, Fr  10:00 – 16:00
+Do + Sa         10:00 – 13:00
+
+Esterházygasse 18 / Ecke Gumpendorfer Str. 64, 1060 Wien (neue Adresse)
 ```
+
+[Google Maps](https://www.google.com/maps/place/Esterh%C3%A1zygasse+18,+1060+Wien)
 
 ## JUCA (Caritas, 18–27 Jahre)
 
-Tel: [01/ 485 27 27](tel:004314852727)
-
-Web: https://www.caritas-wien.at/hilfe-angebote/obdach-wohnen/wohnhaeuser/fuer-jugendliche-junge-erwachsene/juca/
+Tel: [01/ 235 30 10](tel:004312353010)
 
 ```
-Wohnen + Betreuung für junge Leute (18–27). Team 24h vor Ort.
-Einfach anfragen (täglich ab 9:30) oder über P7.
+Wohnen + Betreuung für junge Leute. Team 24h vor Ort.
+Krisenplatz bis 3 Monate. Direkt anrufen oder über FSW / P7.
 
 Hermann-Bahr-Straße 16, 1210 Wien
 ```
 
 [Google Maps](https://www.google.com/maps/place/Hermann-Bahr-Stra%C3%9Fe+16,+1210+Wien)
 
+## Unter 18
+
+```
+Kein Kind muss in einer Erwachsenen-Notschlafstelle schlafen.
+
+Rat auf Draht: 147 (24h, gratis, anonym). Bei jeder Not, auch nachts.
+
+Kinder- und Jugendhilfe (MA 11): über 147 oder die Regionalstelle
+im Bezirk (wien.gv.at). Krisenzentren nehmen Kinder sofort auf.
+```
+
+---
+
+# 7. Wohnung finden + behalten
+
+## FSW Beratungszentrum Wohnungslosenhilfe
+
+Tel: [01/ 24 5 24](tel:00431245240) (jeden Tag 8–20)
+
+Web: [fsw.at Wohnungslosigkeit](https://www.fsw.at/p/wohnungslosigkeit)
+
+```
+Zentrale Stelle für einen Wohnplatz oder eine Wohnung.
+Über den FSW bekommt man auch Plätze in betreuten Häusern
+(z.B. Samariterbund, Caritas, Hilfswerk, Volkshilfe).
+
+Mo–Fr 8:00 – 15:00
+
+Lederergasse 25, 1080 Wien
+```
+
+[Google Maps](https://www.google.com/maps/place/Lederergasse+25,+1080+Wien)
+
+## FAWOS (Wohnung behalten)
+
+Tel: [01/ 218 56 90](tel:004312185690)
+
+Web: [volkshilfe-wien.at/fawos](https://www.volkshilfe-wien.at/fawos)
+
+```
+Hilfe BEVOR die Wohnung weg ist: Kündigung, Räumung, Mietrückstand.
+Je früher, desto besser. Gratis.
+
+Erdbergstraße 228, 1110 Wien
+
+Gemeindewohnung? -> Wiener Wohnen: 05 75 75 75
+Mietrückstand + Mindestsicherung? -> MA 40: 01/ 4000 8040
+```
+
+[Google Maps](https://www.google.com/maps/place/Erdbergstra%C3%9Fe+228,+1110+Wien)
+
+## Schuldenberatung Wien
+
+Tel: [01/ 24 5 24 60 100](tel:004312452460100)
+
+Web: [schuldenberatung.wien](https://www.schuldenberatung.wien/)
+
+```
+Hilfe bei Schulden, Pfändung, Privatkonkurs. Gratis.
+
+Mo–Fr 8:00 – 15:30
+```
+
+---
+
+# 8. Weitere Hilfe
+
+## jedmayer (Suchthilfe)
+
+24h-Krisentelefon: [01/ 4000 53 799](tel:00431400053799)
+
+Web: [suchthilfe.wien](https://www.suchthilfe.wien/)
+
+```
+Für Menschen, die Drogen nehmen. Gratis, freiwillig.
+Essen, Duschen, Wäsche, Ausruhen, Beratung, Arzt, Notschlafstelle.
+
+Gumpendorfer Gürtel 8, 1060 Wien (U6 Gumpendorfer Straße)
+```
+
+[Google Maps](https://www.google.com/maps/place/Gumpendorfer+G%C3%BCrtel+8,+1060+Wien)
+
 ## Ute Bock (Flüchtlinge)
 
 Tel: [01/ 929 24 24 24](tel:00431929242424)
 
-Web: https://www.fraubock.at/
+Web: [fraubock.at](https://www.fraubock.at/)
 
 ```
 Für geflüchtete Menschen. Auch ohne Aufenthaltstitel, auch ohne
-staatliche Hilfe. Obdach, Beratung, Soforthilfe, Deutschkurse.
-
-Offene Beratung: Mo–Do 10:00 – 15:00 (Tür ab 9:00)
+staatliche Hilfe. Wohnen, Beratung, Soforthilfe, Deutschkurse.
 
 Zohmanngasse 28, 1100 Wien
 ```
 
 [Google Maps](https://www.google.com/maps/place/Zohmanngasse+28,+1100+Wien)
 
-## Kinder + Jugendliche unter 18
+## Neustart (nach Gefängnis)
+
+Web: [neustart.at](https://www.neustart.at/)
 
 ```
-Kein Kind muss in einer Erwachsenen-Notschlafstelle schlafen.
+Hilfe nach Gefängnis, Bewährungshilfe, Gericht. Vorher anrufen.
 
-Rat auf Draht: 147 (24h, gratis, anonym)
-Bei jeder Not, auch nachts. Einfach anrufen.
-
-Kinder- und Jugendhilfe (MA 11): über 147 oder die
-Regionalstelle im Bezirk (wien.gv.at).
-Krisenzentren nehmen Kinder sofort auf.
+Castelligasse 17, 1050 Wien
 ```
 
+## Kleidung billig: VinziShop
+
+```
+Kleidung, Schuhe, Haushalt. Für alle.
+Veronikagasse 25, 1160 Wien   01/ 40 63 354   Mo–Fr 10–18, Sa 10–14
+```
+
+---
 
 # Contributions
 
-Bitte um das Eröffnen eines Issues oder eine Nachricht an mich, sollten Informationen veraltet sein.
+Bitte um das Eröffnen eines [Issues](https://github.com/hovercat/Obdach-Wien/issues) oder eine Nachricht an mich, sollten Informationen veraltet sein.
 Sonst einfach hier drauf pull request setzen, danke.
